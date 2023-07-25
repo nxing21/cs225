@@ -1,0 +1,9 @@
+/workspaces/cs225/.devcontainer/a_narytree/build/CMakeFiles/test.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/CMakeFiles/main.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/CMakeFiles/edit_cache.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/src/CMakeFiles/src.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/src/CMakeFiles/edit_cache.dir
+/workspaces/cs225/.devcontainer/a_narytree/build/src/CMakeFiles/rebuild_cache.dir
